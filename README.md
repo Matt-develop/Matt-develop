@@ -1,6 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on a AI for predicting and monitoring student's dropout rate<br>👯 I’m looking to collaborate on inovative projects with strong meaning<br>🌱 I’m currently learning React and Animejs<br>
+<img align="right" height="130" width="130" src="https://i.imgflip.com/a547a2.gif"/>
+🔭 I’m currently working on a AI for predicting and monitoring student's dropout rate<br>👯 I’m looking to collaborate on inovative projects with strong meaning<br>🌱 I’m currently learning React and Animejs
 
+<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matheus-souzasantos) 
@@ -14,5 +16,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Matt-develop&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<img align="right" height="150" src="https://i.imgflip.com/a547a2.gif"  />
