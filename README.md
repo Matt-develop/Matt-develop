@@ -15,8 +15,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Matt-develop&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" height="150" src="https://imgflip.com/gif/a547a2"  />
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
+<img align="right" height="150" src="https://i.imgflip.com/a547a2.gif"  />
